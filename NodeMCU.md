@@ -250,3 +250,11 @@ If client is connected then simply send the Data to Google Sheet by using POST f
     DPRINTLN(error_count);
   }
 ```
+** And with this,we're done with adding data to the sheets. **
+## Citations
+* https://www.circuito.io/blog/nodemcu-esp8266/
+* https://www.iotforall.com/what-is-iot-simple-explanation/
+* https://techtutorialsx.com/2016/07/21/esp8266-post-requests/ 
+* https://techtutorialsx.com/2016/07/17/esp8266-http-get-requests/
+* https://www.instructables.com/id/Steps-to-Setup-Arduino-IDE-for-NODEMCU-ESP8266-WiF/
+* https://circuitdigest.com/microcontroller-projects/log-temperature-sensor-data-to-google-sheet-using-nodemcu-esp8266

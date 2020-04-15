@@ -250,7 +250,7 @@ If client is connected then simply send the Data to Google Sheet by using POST f
     DPRINTLN(error_count);
   }
 ```
-** And with this,we're done with adding data to the sheets. **
+**And with this,we're done with adding data to the sheets.**
 ## Citations
 * https://www.circuito.io/blog/nodemcu-esp8266/
 * https://www.iotforall.com/what-is-iot-simple-explanation/
